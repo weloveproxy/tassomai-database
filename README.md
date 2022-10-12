@@ -11,4 +11,3 @@ Ctrl + V to the find bar on the webpage
 
 The answer will be at the end of the question and sets of answers
 
-Thanks to Gloryness: Owner of tassomai-automation.com
